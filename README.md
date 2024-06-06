@@ -1,2 +1,3 @@
-# CTLC-Implementation
-Here you find the code for the CTLC Implementation as mentioned in the paper "Atomic Transaction Graphs: A Framework for Secure-by-design Protocols for Heterogeneous Blockchain Environments". 
+# Extended Version and CTLC-Implementation
+Here you find the extended version of the Paper 'Atomic Transaction Graphs: A Framework for Secure-by-design
+Protocols for Heterogeneous Blockchain Environments' and the code for the CTLC Implementation mentioned in this work.
